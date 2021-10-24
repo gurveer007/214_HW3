@@ -38,6 +38,7 @@ int main(int argc, char *argv[]){
         }
             
     }
+    // whatever
     free(userInput);
     return 0;
 }
