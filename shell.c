@@ -27,7 +27,7 @@ int main(int argc, char *argv[]){
         }
         if (strcmp(userInput,"exit")==0 )
         {
-            break;//
+            break;
         } 
         if (strcmp(userInput,"/bin/ls") == 0)
         {
